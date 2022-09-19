@@ -1,0 +1,13 @@
+/Users/riyas/Projects/stringzoho/stringzoho/bin/Debug/netcoreapp3.1/stringzoho.deps.json
+/Users/riyas/Projects/stringzoho/stringzoho/bin/Debug/netcoreapp3.1/stringzoho.runtimeconfig.json
+/Users/riyas/Projects/stringzoho/stringzoho/bin/Debug/netcoreapp3.1/stringzoho.runtimeconfig.dev.json
+/Users/riyas/Projects/stringzoho/stringzoho/bin/Debug/netcoreapp3.1/stringzoho.dll
+/Users/riyas/Projects/stringzoho/stringzoho/bin/Debug/netcoreapp3.1/stringzoho.pdb
+/Users/riyas/Projects/stringzoho/stringzoho/obj/Debug/netcoreapp3.1/stringzoho.csproj.AssemblyReference.cache
+/Users/riyas/Projects/stringzoho/stringzoho/obj/Debug/netcoreapp3.1/stringzoho.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/stringzoho/stringzoho/obj/Debug/netcoreapp3.1/stringzoho.AssemblyInfoInputs.cache
+/Users/riyas/Projects/stringzoho/stringzoho/obj/Debug/netcoreapp3.1/stringzoho.AssemblyInfo.cs
+/Users/riyas/Projects/stringzoho/stringzoho/obj/Debug/netcoreapp3.1/stringzoho.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/stringzoho/stringzoho/obj/Debug/netcoreapp3.1/stringzoho.dll
+/Users/riyas/Projects/stringzoho/stringzoho/obj/Debug/netcoreapp3.1/stringzoho.pdb
+/Users/riyas/Projects/stringzoho/stringzoho/obj/Debug/netcoreapp3.1/stringzoho.genruntimeconfig.cache

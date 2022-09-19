@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D43E85C3-FBF7-4546-A1D4-669B880AF0A8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Electronic-Gradebook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Electronic-Gradebook/ElectronicGradeBook.cs">
+    <Files>
+      <File FileName="Electronic-Gradebook/ElectronicGradeBook.cs" Line="38" Column="1" />
+      <File FileName="Electronic-Gradebook/GradeCalculator.cs" Line="91" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

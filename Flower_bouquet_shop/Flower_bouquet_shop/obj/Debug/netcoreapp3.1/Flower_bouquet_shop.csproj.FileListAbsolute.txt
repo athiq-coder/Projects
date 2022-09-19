@@ -1,0 +1,12 @@
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/bin/Debug/netcoreapp3.1/Flower_bouquet_shop.deps.json
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/bin/Debug/netcoreapp3.1/Flower_bouquet_shop.runtimeconfig.json
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/bin/Debug/netcoreapp3.1/Flower_bouquet_shop.runtimeconfig.dev.json
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/bin/Debug/netcoreapp3.1/Flower_bouquet_shop.dll
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/bin/Debug/netcoreapp3.1/Flower_bouquet_shop.pdb
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/obj/Debug/netcoreapp3.1/Flower_bouquet_shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/obj/Debug/netcoreapp3.1/Flower_bouquet_shop.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/obj/Debug/netcoreapp3.1/Flower_bouquet_shop.AssemblyInfo.cs
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/obj/Debug/netcoreapp3.1/Flower_bouquet_shop.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/obj/Debug/netcoreapp3.1/Flower_bouquet_shop.dll
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/obj/Debug/netcoreapp3.1/Flower_bouquet_shop.pdb
+/Users/riyas/Projects/Flower_bouquet_shop/Flower_bouquet_shop/obj/Debug/netcoreapp3.1/Flower_bouquet_shop.genruntimeconfig.cache

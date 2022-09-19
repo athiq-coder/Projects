@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0FE922AB-60C0-4A9D-8D4B-D0B874344039}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="longest_subsequence/Program.cs">
+    <Files>
+      <File FileName="longest_subsequence/Program.cs" Line="22" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="longest_subsequence" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.longest__subsequence PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

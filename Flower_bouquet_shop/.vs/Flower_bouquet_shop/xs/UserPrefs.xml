@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9639061A-9063-43C3-8C3F-AFE85560D457}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Flower_bouquet_shop/Flower_bouquet.cs">
+    <Files>
+      <File FileName="Flower_bouquet_shop/main.cs" Line="12" Column="21" />
+      <File FileName="Flower_bouquet_shop/Flower_bouquet.cs" Line="20" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Flower_bouquet_shop" expanded="True">
+            <Node name="Flower_bouquet_shop" expanded="True">
+              <Node name="Flower_bouquet.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Flower__bouquet__shop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

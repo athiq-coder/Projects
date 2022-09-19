@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{533A011C-D10D-4689-B635-AAB65CEDAC99}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="flower_bouquet_billing/Billing.cs">
+    <Files>
+      <File FileName="flower_bouquet_billing/main.cs" Line="17" Column="36" />
+      <File FileName="flower_bouquet_billing/Billing.cs" Line="232" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.flower__bouquet__billing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

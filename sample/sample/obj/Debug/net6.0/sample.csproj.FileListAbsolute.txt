@@ -1,0 +1,15 @@
+/Users/riyas/Projects/sample/sample/bin/Debug/net6.0/sample
+/Users/riyas/Projects/sample/sample/bin/Debug/net6.0/sample.deps.json
+/Users/riyas/Projects/sample/sample/bin/Debug/net6.0/sample.runtimeconfig.json
+/Users/riyas/Projects/sample/sample/bin/Debug/net6.0/sample.dll
+/Users/riyas/Projects/sample/sample/bin/Debug/net6.0/sample.pdb
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/sample.csproj.AssemblyReference.cache
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/sample.AssemblyInfoInputs.cache
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/sample.AssemblyInfo.cs
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/sample.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/sample.dll
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/refint/sample.dll
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/sample.pdb
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/sample.genruntimeconfig.cache
+/Users/riyas/Projects/sample/sample/obj/Debug/net6.0/ref/sample.dll

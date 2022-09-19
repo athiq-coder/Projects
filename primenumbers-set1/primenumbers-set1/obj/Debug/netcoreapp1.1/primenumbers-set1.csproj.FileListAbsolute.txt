@@ -1,0 +1,13 @@
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/bin/Debug/netcoreapp1.1/primenumbers-set1.deps.json
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/bin/Debug/netcoreapp1.1/primenumbers-set1.runtimeconfig.json
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/bin/Debug/netcoreapp1.1/primenumbers-set1.runtimeconfig.dev.json
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/bin/Debug/netcoreapp1.1/primenumbers-set1.dll
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/bin/Debug/netcoreapp1.1/primenumbers-set1.pdb
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/obj/Debug/netcoreapp1.1/primenumbers-set1.csproj.AssemblyReference.cache
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/obj/Debug/netcoreapp1.1/primenumbers-set1.AssemblyInfoInputs.cache
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/obj/Debug/netcoreapp1.1/primenumbers-set1.AssemblyInfo.cs
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/obj/Debug/netcoreapp1.1/primenumbers-set1.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/obj/Debug/netcoreapp1.1/primenumbers-set1.dll
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/obj/Debug/netcoreapp1.1/primenumbers-set1.pdb
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/obj/Debug/netcoreapp1.1/primenumbers-set1.genruntimeconfig.cache
+/Users/riyas/Projects/primenumbers-set1/primenumbers-set1/obj/Debug/netcoreapp1.1/primenumbers-set1.GeneratedMSBuildEditorConfig.editorconfig

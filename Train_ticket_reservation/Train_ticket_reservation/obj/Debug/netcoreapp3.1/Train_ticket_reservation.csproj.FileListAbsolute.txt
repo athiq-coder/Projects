@@ -1,0 +1,12 @@
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/bin/Debug/netcoreapp3.1/Train_ticket_reservation.deps.json
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/bin/Debug/netcoreapp3.1/Train_ticket_reservation.runtimeconfig.json
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/bin/Debug/netcoreapp3.1/Train_ticket_reservation.runtimeconfig.dev.json
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/bin/Debug/netcoreapp3.1/Train_ticket_reservation.dll
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/bin/Debug/netcoreapp3.1/Train_ticket_reservation.pdb
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/obj/Debug/netcoreapp3.1/Train_ticket_reservation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/obj/Debug/netcoreapp3.1/Train_ticket_reservation.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/obj/Debug/netcoreapp3.1/Train_ticket_reservation.AssemblyInfo.cs
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/obj/Debug/netcoreapp3.1/Train_ticket_reservation.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/obj/Debug/netcoreapp3.1/Train_ticket_reservation.dll
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/obj/Debug/netcoreapp3.1/Train_ticket_reservation.pdb
+/Users/riyas/Projects/Train_ticket_reservation/Train_ticket_reservation/obj/Debug/netcoreapp3.1/Train_ticket_reservation.genruntimeconfig.cache

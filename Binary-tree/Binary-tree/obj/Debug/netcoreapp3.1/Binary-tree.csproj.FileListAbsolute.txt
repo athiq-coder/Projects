@@ -1,0 +1,13 @@
+/Users/riyas/Projects/Binary-tree/Binary-tree/bin/Debug/netcoreapp3.1/Binary-tree.deps.json
+/Users/riyas/Projects/Binary-tree/Binary-tree/bin/Debug/netcoreapp3.1/Binary-tree.runtimeconfig.json
+/Users/riyas/Projects/Binary-tree/Binary-tree/bin/Debug/netcoreapp3.1/Binary-tree.runtimeconfig.dev.json
+/Users/riyas/Projects/Binary-tree/Binary-tree/bin/Debug/netcoreapp3.1/Binary-tree.dll
+/Users/riyas/Projects/Binary-tree/Binary-tree/bin/Debug/netcoreapp3.1/Binary-tree.pdb
+/Users/riyas/Projects/Binary-tree/Binary-tree/obj/Debug/netcoreapp3.1/Binary-tree.csproj.AssemblyReference.cache
+/Users/riyas/Projects/Binary-tree/Binary-tree/obj/Debug/netcoreapp3.1/Binary-tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Binary-tree/Binary-tree/obj/Debug/netcoreapp3.1/Binary-tree.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Binary-tree/Binary-tree/obj/Debug/netcoreapp3.1/Binary-tree.AssemblyInfo.cs
+/Users/riyas/Projects/Binary-tree/Binary-tree/obj/Debug/netcoreapp3.1/Binary-tree.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Binary-tree/Binary-tree/obj/Debug/netcoreapp3.1/Binary-tree.dll
+/Users/riyas/Projects/Binary-tree/Binary-tree/obj/Debug/netcoreapp3.1/Binary-tree.pdb
+/Users/riyas/Projects/Binary-tree/Binary-tree/obj/Debug/netcoreapp3.1/Binary-tree.genruntimeconfig.cache

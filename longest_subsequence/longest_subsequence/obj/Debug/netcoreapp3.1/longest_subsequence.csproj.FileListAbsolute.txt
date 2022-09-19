@@ -1,0 +1,13 @@
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/bin/Debug/netcoreapp3.1/longest_subsequence.deps.json
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/bin/Debug/netcoreapp3.1/longest_subsequence.runtimeconfig.json
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/bin/Debug/netcoreapp3.1/longest_subsequence.runtimeconfig.dev.json
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/bin/Debug/netcoreapp3.1/longest_subsequence.dll
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/bin/Debug/netcoreapp3.1/longest_subsequence.pdb
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/obj/Debug/netcoreapp3.1/longest_subsequence.csproj.AssemblyReference.cache
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/obj/Debug/netcoreapp3.1/longest_subsequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/obj/Debug/netcoreapp3.1/longest_subsequence.AssemblyInfoInputs.cache
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/obj/Debug/netcoreapp3.1/longest_subsequence.AssemblyInfo.cs
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/obj/Debug/netcoreapp3.1/longest_subsequence.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/obj/Debug/netcoreapp3.1/longest_subsequence.dll
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/obj/Debug/netcoreapp3.1/longest_subsequence.pdb
+/Users/riyas/Projects/longest_subsequence/longest_subsequence/obj/Debug/netcoreapp3.1/longest_subsequence.genruntimeconfig.cache

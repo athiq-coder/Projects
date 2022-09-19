@@ -1,0 +1,13 @@
+/Users/riyas/Projects/tictak/tictak/bin/Debug/netcoreapp3.1/tictak.deps.json
+/Users/riyas/Projects/tictak/tictak/bin/Debug/netcoreapp3.1/tictak.runtimeconfig.json
+/Users/riyas/Projects/tictak/tictak/bin/Debug/netcoreapp3.1/tictak.runtimeconfig.dev.json
+/Users/riyas/Projects/tictak/tictak/bin/Debug/netcoreapp3.1/tictak.dll
+/Users/riyas/Projects/tictak/tictak/bin/Debug/netcoreapp3.1/tictak.pdb
+/Users/riyas/Projects/tictak/tictak/obj/Debug/netcoreapp3.1/tictak.csproj.AssemblyReference.cache
+/Users/riyas/Projects/tictak/tictak/obj/Debug/netcoreapp3.1/tictak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/tictak/tictak/obj/Debug/netcoreapp3.1/tictak.AssemblyInfoInputs.cache
+/Users/riyas/Projects/tictak/tictak/obj/Debug/netcoreapp3.1/tictak.AssemblyInfo.cs
+/Users/riyas/Projects/tictak/tictak/obj/Debug/netcoreapp3.1/tictak.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/tictak/tictak/obj/Debug/netcoreapp3.1/tictak.dll
+/Users/riyas/Projects/tictak/tictak/obj/Debug/netcoreapp3.1/tictak.pdb
+/Users/riyas/Projects/tictak/tictak/obj/Debug/netcoreapp3.1/tictak.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E1D645E1-0F27-4875-9FAA-2CD9700C2727}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="train-ticket/Program.cs">
+    <Files>
+      <File FileName="train-ticket/Program.cs" Line="26" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="train-ticket" expanded="True">
+            <Node name="train-ticket" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.train-ticket FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

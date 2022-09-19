@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{47BD7A8B-93B3-427B-8809-5E671510B17D}|Default">
+  <MonoDevelop.Ide.ItemProperties.zoho__questions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zoho_questions/Program.cs">
+    <Files>
+      <File FileName="zoho_questions/Program.cs" Line="20" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zoho_questions" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

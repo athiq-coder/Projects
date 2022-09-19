@@ -1,0 +1,13 @@
+/Users/riyas/Projects/zoho_questions/zoho_questions/bin/Debug/netcoreapp3.1/zoho_questions.deps.json
+/Users/riyas/Projects/zoho_questions/zoho_questions/bin/Debug/netcoreapp3.1/zoho_questions.runtimeconfig.json
+/Users/riyas/Projects/zoho_questions/zoho_questions/bin/Debug/netcoreapp3.1/zoho_questions.runtimeconfig.dev.json
+/Users/riyas/Projects/zoho_questions/zoho_questions/bin/Debug/netcoreapp3.1/zoho_questions.dll
+/Users/riyas/Projects/zoho_questions/zoho_questions/bin/Debug/netcoreapp3.1/zoho_questions.pdb
+/Users/riyas/Projects/zoho_questions/zoho_questions/obj/Debug/netcoreapp3.1/zoho_questions.csproj.AssemblyReference.cache
+/Users/riyas/Projects/zoho_questions/zoho_questions/obj/Debug/netcoreapp3.1/zoho_questions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/zoho_questions/zoho_questions/obj/Debug/netcoreapp3.1/zoho_questions.AssemblyInfoInputs.cache
+/Users/riyas/Projects/zoho_questions/zoho_questions/obj/Debug/netcoreapp3.1/zoho_questions.AssemblyInfo.cs
+/Users/riyas/Projects/zoho_questions/zoho_questions/obj/Debug/netcoreapp3.1/zoho_questions.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/zoho_questions/zoho_questions/obj/Debug/netcoreapp3.1/zoho_questions.dll
+/Users/riyas/Projects/zoho_questions/zoho_questions/obj/Debug/netcoreapp3.1/zoho_questions.pdb
+/Users/riyas/Projects/zoho_questions/zoho_questions/obj/Debug/netcoreapp3.1/zoho_questions.genruntimeconfig.cache

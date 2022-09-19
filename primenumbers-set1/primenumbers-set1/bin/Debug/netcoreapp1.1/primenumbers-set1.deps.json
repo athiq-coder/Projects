@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "primenumbers-set1/1.0.0": {
+        "runtime": {
+          "primenumbers-set1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "primenumbers-set1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/Users/riyas/Projects/challenge-day1/challenge-day1/bin/Debug/netcoreapp3.1/challenge-day1.deps.json
+/Users/riyas/Projects/challenge-day1/challenge-day1/bin/Debug/netcoreapp3.1/challenge-day1.runtimeconfig.json
+/Users/riyas/Projects/challenge-day1/challenge-day1/bin/Debug/netcoreapp3.1/challenge-day1.runtimeconfig.dev.json
+/Users/riyas/Projects/challenge-day1/challenge-day1/bin/Debug/netcoreapp3.1/challenge-day1.dll
+/Users/riyas/Projects/challenge-day1/challenge-day1/bin/Debug/netcoreapp3.1/challenge-day1.pdb
+/Users/riyas/Projects/challenge-day1/challenge-day1/obj/Debug/netcoreapp3.1/challenge-day1.csproj.AssemblyReference.cache
+/Users/riyas/Projects/challenge-day1/challenge-day1/obj/Debug/netcoreapp3.1/challenge-day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/challenge-day1/challenge-day1/obj/Debug/netcoreapp3.1/challenge-day1.AssemblyInfoInputs.cache
+/Users/riyas/Projects/challenge-day1/challenge-day1/obj/Debug/netcoreapp3.1/challenge-day1.AssemblyInfo.cs
+/Users/riyas/Projects/challenge-day1/challenge-day1/obj/Debug/netcoreapp3.1/challenge-day1.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/challenge-day1/challenge-day1/obj/Debug/netcoreapp3.1/challenge-day1.dll
+/Users/riyas/Projects/challenge-day1/challenge-day1/obj/Debug/netcoreapp3.1/challenge-day1.pdb
+/Users/riyas/Projects/challenge-day1/challenge-day1/obj/Debug/netcoreapp3.1/challenge-day1.genruntimeconfig.cache

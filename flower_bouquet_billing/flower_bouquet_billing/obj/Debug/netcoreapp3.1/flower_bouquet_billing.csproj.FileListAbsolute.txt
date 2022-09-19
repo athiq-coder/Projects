@@ -1,0 +1,13 @@
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/bin/Debug/netcoreapp3.1/flower_bouquet_billing.deps.json
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/bin/Debug/netcoreapp3.1/flower_bouquet_billing.runtimeconfig.json
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/bin/Debug/netcoreapp3.1/flower_bouquet_billing.runtimeconfig.dev.json
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/bin/Debug/netcoreapp3.1/flower_bouquet_billing.dll
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/bin/Debug/netcoreapp3.1/flower_bouquet_billing.pdb
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/obj/Debug/netcoreapp3.1/flower_bouquet_billing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/obj/Debug/netcoreapp3.1/flower_bouquet_billing.AssemblyInfoInputs.cache
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/obj/Debug/netcoreapp3.1/flower_bouquet_billing.AssemblyInfo.cs
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/obj/Debug/netcoreapp3.1/flower_bouquet_billing.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/obj/Debug/netcoreapp3.1/flower_bouquet_billing.dll
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/obj/Debug/netcoreapp3.1/flower_bouquet_billing.pdb
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/obj/Debug/netcoreapp3.1/flower_bouquet_billing.genruntimeconfig.cache
+/Users/riyas/Projects/flower_bouquet_billing/flower_bouquet_billing/obj/Debug/netcoreapp3.1/flower_bouquet_billing.csproj.AssemblyReference.cache

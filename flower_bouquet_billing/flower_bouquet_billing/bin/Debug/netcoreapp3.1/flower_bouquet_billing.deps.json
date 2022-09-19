@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "flower_bouquet_billing/1.0.0": {
+        "runtime": {
+          "flower_bouquet_billing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "flower_bouquet_billing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

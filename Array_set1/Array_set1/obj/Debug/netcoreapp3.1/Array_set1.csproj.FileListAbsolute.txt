@@ -1,0 +1,13 @@
+/Users/riyas/Projects/Array_set1/Array_set1/bin/Debug/netcoreapp3.1/Array_set1.deps.json
+/Users/riyas/Projects/Array_set1/Array_set1/bin/Debug/netcoreapp3.1/Array_set1.runtimeconfig.json
+/Users/riyas/Projects/Array_set1/Array_set1/bin/Debug/netcoreapp3.1/Array_set1.runtimeconfig.dev.json
+/Users/riyas/Projects/Array_set1/Array_set1/bin/Debug/netcoreapp3.1/Array_set1.dll
+/Users/riyas/Projects/Array_set1/Array_set1/bin/Debug/netcoreapp3.1/Array_set1.pdb
+/Users/riyas/Projects/Array_set1/Array_set1/obj/Debug/netcoreapp3.1/Array_set1.csproj.AssemblyReference.cache
+/Users/riyas/Projects/Array_set1/Array_set1/obj/Debug/netcoreapp3.1/Array_set1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Array_set1/Array_set1/obj/Debug/netcoreapp3.1/Array_set1.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Array_set1/Array_set1/obj/Debug/netcoreapp3.1/Array_set1.AssemblyInfo.cs
+/Users/riyas/Projects/Array_set1/Array_set1/obj/Debug/netcoreapp3.1/Array_set1.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Array_set1/Array_set1/obj/Debug/netcoreapp3.1/Array_set1.dll
+/Users/riyas/Projects/Array_set1/Array_set1/obj/Debug/netcoreapp3.1/Array_set1.pdb
+/Users/riyas/Projects/Array_set1/Array_set1/obj/Debug/netcoreapp3.1/Array_set1.genruntimeconfig.cache

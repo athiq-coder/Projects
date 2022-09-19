@@ -1,0 +1,12 @@
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/bin/Debug/netcoreapp3.1/TicTacToe_2.deps.json
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/bin/Debug/netcoreapp3.1/TicTacToe_2.runtimeconfig.json
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/bin/Debug/netcoreapp3.1/TicTacToe_2.runtimeconfig.dev.json
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/bin/Debug/netcoreapp3.1/TicTacToe_2.dll
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/bin/Debug/netcoreapp3.1/TicTacToe_2.pdb
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/obj/Debug/netcoreapp3.1/TicTacToe_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/obj/Debug/netcoreapp3.1/TicTacToe_2.AssemblyInfoInputs.cache
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/obj/Debug/netcoreapp3.1/TicTacToe_2.AssemblyInfo.cs
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/obj/Debug/netcoreapp3.1/TicTacToe_2.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/obj/Debug/netcoreapp3.1/TicTacToe_2.dll
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/obj/Debug/netcoreapp3.1/TicTacToe_2.pdb
+/Users/riyas/Projects/TicTacToe_2/TicTacToe_2/obj/Debug/netcoreapp3.1/TicTacToe_2.genruntimeconfig.cache

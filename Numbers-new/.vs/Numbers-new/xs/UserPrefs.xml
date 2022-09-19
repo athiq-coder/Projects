@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3ADC008B-0BF6-4B4E-800F-90A623126BAC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Numbers-new PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/numbersnewProgram.cs">
+    <Files>
+      <File FileName="Numbers-new/Program.cs" Line="130" Column="13" />
+      <File FileName="Numbers-new/Program.cs" Line="148" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Numbers-new" expanded="True">
+            <Node name="Numbers-new" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

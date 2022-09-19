@@ -1,0 +1,13 @@
+/Users/riyas/Projects/bitonic/bitonic/bin/Debug/netcoreapp3.1/bitonic.deps.json
+/Users/riyas/Projects/bitonic/bitonic/bin/Debug/netcoreapp3.1/bitonic.runtimeconfig.json
+/Users/riyas/Projects/bitonic/bitonic/bin/Debug/netcoreapp3.1/bitonic.runtimeconfig.dev.json
+/Users/riyas/Projects/bitonic/bitonic/bin/Debug/netcoreapp3.1/bitonic.dll
+/Users/riyas/Projects/bitonic/bitonic/bin/Debug/netcoreapp3.1/bitonic.pdb
+/Users/riyas/Projects/bitonic/bitonic/obj/Debug/netcoreapp3.1/bitonic.csproj.AssemblyReference.cache
+/Users/riyas/Projects/bitonic/bitonic/obj/Debug/netcoreapp3.1/bitonic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/bitonic/bitonic/obj/Debug/netcoreapp3.1/bitonic.AssemblyInfoInputs.cache
+/Users/riyas/Projects/bitonic/bitonic/obj/Debug/netcoreapp3.1/bitonic.AssemblyInfo.cs
+/Users/riyas/Projects/bitonic/bitonic/obj/Debug/netcoreapp3.1/bitonic.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/bitonic/bitonic/obj/Debug/netcoreapp3.1/bitonic.dll
+/Users/riyas/Projects/bitonic/bitonic/obj/Debug/netcoreapp3.1/bitonic.pdb
+/Users/riyas/Projects/bitonic/bitonic/obj/Debug/netcoreapp3.1/bitonic.genruntimeconfig.cache

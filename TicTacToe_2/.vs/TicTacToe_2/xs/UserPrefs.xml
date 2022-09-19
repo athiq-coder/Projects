@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{66F119AF-ED59-4A97-9C33-6D879632591A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToe_2/Program.cs">
+    <Files>
+      <File FileName="TicTacToe_2/Program.cs" Line="51" Column="1" IsPinned="True" />
+      <File FileName="TicTacToe_2/GameAttributes.cs" />
+      <File FileName="TicTacToe_2/main.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicTacToe_2" expanded="True">
+            <Node name="TicTacToe_2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TicTacToe__2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

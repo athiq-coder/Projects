@@ -1,0 +1,13 @@
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/bin/Debug/netcoreapp3.1/arrays_with_collections.deps.json
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/bin/Debug/netcoreapp3.1/arrays_with_collections.runtimeconfig.json
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/bin/Debug/netcoreapp3.1/arrays_with_collections.runtimeconfig.dev.json
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/bin/Debug/netcoreapp3.1/arrays_with_collections.dll
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/bin/Debug/netcoreapp3.1/arrays_with_collections.pdb
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/obj/Debug/netcoreapp3.1/arrays_with_collections.csproj.AssemblyReference.cache
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/obj/Debug/netcoreapp3.1/arrays_with_collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/obj/Debug/netcoreapp3.1/arrays_with_collections.AssemblyInfoInputs.cache
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/obj/Debug/netcoreapp3.1/arrays_with_collections.AssemblyInfo.cs
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/obj/Debug/netcoreapp3.1/arrays_with_collections.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/obj/Debug/netcoreapp3.1/arrays_with_collections.dll
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/obj/Debug/netcoreapp3.1/arrays_with_collections.pdb
+/Users/riyas/Projects/arrays_with_collections/arrays_with_collections/obj/Debug/netcoreapp3.1/arrays_with_collections.genruntimeconfig.cache

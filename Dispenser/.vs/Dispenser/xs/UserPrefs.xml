@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E3C379E6-0F9A-40D0-BBC4-D5D1360DB800}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dispenser/Program.cs">
+    <Files>
+      <File FileName="Dispenser/Program.cs" Line="10" Column="6" />
+      <File FileName="Dispenser/main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dispenser" expanded="True">
+            <Node name="Dispenser" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Dispenser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/riyas/Projects/Dispenser/Dispenser/Program.cs" relfile="Dispenser/Program.cs" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

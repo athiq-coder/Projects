@@ -1,0 +1,13 @@
+/Users/riyas/Projects/Numbers-new/Numbers-new/bin/Debug/netcoreapp3.1/Numbers-new.deps.json
+/Users/riyas/Projects/Numbers-new/Numbers-new/bin/Debug/netcoreapp3.1/Numbers-new.runtimeconfig.json
+/Users/riyas/Projects/Numbers-new/Numbers-new/bin/Debug/netcoreapp3.1/Numbers-new.runtimeconfig.dev.json
+/Users/riyas/Projects/Numbers-new/Numbers-new/bin/Debug/netcoreapp3.1/Numbers-new.dll
+/Users/riyas/Projects/Numbers-new/Numbers-new/bin/Debug/netcoreapp3.1/Numbers-new.pdb
+/Users/riyas/Projects/Numbers-new/Numbers-new/obj/Debug/netcoreapp3.1/Numbers-new.csproj.AssemblyReference.cache
+/Users/riyas/Projects/Numbers-new/Numbers-new/obj/Debug/netcoreapp3.1/Numbers-new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Numbers-new/Numbers-new/obj/Debug/netcoreapp3.1/Numbers-new.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Numbers-new/Numbers-new/obj/Debug/netcoreapp3.1/Numbers-new.AssemblyInfo.cs
+/Users/riyas/Projects/Numbers-new/Numbers-new/obj/Debug/netcoreapp3.1/Numbers-new.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Numbers-new/Numbers-new/obj/Debug/netcoreapp3.1/Numbers-new.dll
+/Users/riyas/Projects/Numbers-new/Numbers-new/obj/Debug/netcoreapp3.1/Numbers-new.pdb
+/Users/riyas/Projects/Numbers-new/Numbers-new/obj/Debug/netcoreapp3.1/Numbers-new.genruntimeconfig.cache

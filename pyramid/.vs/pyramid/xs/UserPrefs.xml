@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0EA53197-C972-4A87-A48D-375B345A8D83}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pyramid/Program.cs">
+    <Files>
+      <File FileName="pyramid/Program.cs" Line="10" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pyramid" expanded="True">
+            <Node name="pyramid" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pyramid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/bin/Debug/netcoreapp3.1/Electronic-Gradebook.deps.json
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/bin/Debug/netcoreapp3.1/Electronic-Gradebook.runtimeconfig.json
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/bin/Debug/netcoreapp3.1/Electronic-Gradebook.runtimeconfig.dev.json
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/bin/Debug/netcoreapp3.1/Electronic-Gradebook.dll
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/bin/Debug/netcoreapp3.1/Electronic-Gradebook.pdb
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/obj/Debug/netcoreapp3.1/Electronic-Gradebook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/obj/Debug/netcoreapp3.1/Electronic-Gradebook.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/obj/Debug/netcoreapp3.1/Electronic-Gradebook.AssemblyInfo.cs
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/obj/Debug/netcoreapp3.1/Electronic-Gradebook.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/obj/Debug/netcoreapp3.1/Electronic-Gradebook.dll
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/obj/Debug/netcoreapp3.1/Electronic-Gradebook.pdb
+/Users/riyas/Projects/Electronic-Gradebook/Electronic-Gradebook/obj/Debug/netcoreapp3.1/Electronic-Gradebook.genruntimeconfig.cache

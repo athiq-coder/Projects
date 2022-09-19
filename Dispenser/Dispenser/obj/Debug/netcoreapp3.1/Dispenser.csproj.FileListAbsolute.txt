@@ -1,0 +1,13 @@
+/Users/riyas/Projects/Dispenser/Dispenser/bin/Debug/netcoreapp3.1/Dispenser.deps.json
+/Users/riyas/Projects/Dispenser/Dispenser/bin/Debug/netcoreapp3.1/Dispenser.runtimeconfig.json
+/Users/riyas/Projects/Dispenser/Dispenser/bin/Debug/netcoreapp3.1/Dispenser.runtimeconfig.dev.json
+/Users/riyas/Projects/Dispenser/Dispenser/bin/Debug/netcoreapp3.1/Dispenser.dll
+/Users/riyas/Projects/Dispenser/Dispenser/bin/Debug/netcoreapp3.1/Dispenser.pdb
+/Users/riyas/Projects/Dispenser/Dispenser/obj/Debug/netcoreapp3.1/Dispenser.csproj.AssemblyReference.cache
+/Users/riyas/Projects/Dispenser/Dispenser/obj/Debug/netcoreapp3.1/Dispenser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Dispenser/Dispenser/obj/Debug/netcoreapp3.1/Dispenser.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Dispenser/Dispenser/obj/Debug/netcoreapp3.1/Dispenser.AssemblyInfo.cs
+/Users/riyas/Projects/Dispenser/Dispenser/obj/Debug/netcoreapp3.1/Dispenser.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Dispenser/Dispenser/obj/Debug/netcoreapp3.1/Dispenser.dll
+/Users/riyas/Projects/Dispenser/Dispenser/obj/Debug/netcoreapp3.1/Dispenser.pdb
+/Users/riyas/Projects/Dispenser/Dispenser/obj/Debug/netcoreapp3.1/Dispenser.genruntimeconfig.cache

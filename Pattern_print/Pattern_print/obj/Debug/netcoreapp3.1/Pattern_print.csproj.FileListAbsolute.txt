@@ -1,0 +1,13 @@
+/Users/riyas/Projects/Pattern_print/Pattern_print/bin/Debug/netcoreapp3.1/Pattern_print.deps.json
+/Users/riyas/Projects/Pattern_print/Pattern_print/bin/Debug/netcoreapp3.1/Pattern_print.runtimeconfig.json
+/Users/riyas/Projects/Pattern_print/Pattern_print/bin/Debug/netcoreapp3.1/Pattern_print.runtimeconfig.dev.json
+/Users/riyas/Projects/Pattern_print/Pattern_print/bin/Debug/netcoreapp3.1/Pattern_print.dll
+/Users/riyas/Projects/Pattern_print/Pattern_print/bin/Debug/netcoreapp3.1/Pattern_print.pdb
+/Users/riyas/Projects/Pattern_print/Pattern_print/obj/Debug/netcoreapp3.1/Pattern_print.csproj.AssemblyReference.cache
+/Users/riyas/Projects/Pattern_print/Pattern_print/obj/Debug/netcoreapp3.1/Pattern_print.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Pattern_print/Pattern_print/obj/Debug/netcoreapp3.1/Pattern_print.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Pattern_print/Pattern_print/obj/Debug/netcoreapp3.1/Pattern_print.AssemblyInfo.cs
+/Users/riyas/Projects/Pattern_print/Pattern_print/obj/Debug/netcoreapp3.1/Pattern_print.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Pattern_print/Pattern_print/obj/Debug/netcoreapp3.1/Pattern_print.dll
+/Users/riyas/Projects/Pattern_print/Pattern_print/obj/Debug/netcoreapp3.1/Pattern_print.pdb
+/Users/riyas/Projects/Pattern_print/Pattern_print/obj/Debug/netcoreapp3.1/Pattern_print.genruntimeconfig.cache

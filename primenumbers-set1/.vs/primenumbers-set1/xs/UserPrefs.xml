@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{215FBEC7-DF68-411B-BF6D-FEAD2F0304A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../primeNumbers-set/primeNumbers-set/Program.cs">
+    <Files>
+      <File FileName="../../../../usr/local/share/dotnet/x64/sdk/6.0.106/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.EolTargetFrameworks.targets" Line="28" Column="5" />
+      <File FileName="../test1/test1/Program.cs" Line="69" Column="10" />
+      <File FileName="../primeNumbers-set/primeNumbers-set/Program.cs" Line="20" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="primenumbers-set1" expanded="True">
+            <Node name="primenumbers-set1" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.primenumbers-set1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

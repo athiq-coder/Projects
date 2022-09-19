@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EE0F4F4F-8EBF-45F0-A5CA-592F7B7AE76D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Train_ticket_reservation/Train_ticket_reservation.cs">
+    <Files>
+      <File FileName="Train_ticket_reservation/Main.cs" Line="15" Column="1" />
+      <File FileName="Train_ticket_reservation/Train_ticket_reservation.cs" Line="231" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Train__ticket__reservation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

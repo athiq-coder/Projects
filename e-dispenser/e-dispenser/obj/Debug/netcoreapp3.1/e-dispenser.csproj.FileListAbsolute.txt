@@ -1,0 +1,13 @@
+/Users/riyas/Projects/e-dispenser/e-dispenser/bin/Debug/netcoreapp3.1/e-dispenser.deps.json
+/Users/riyas/Projects/e-dispenser/e-dispenser/bin/Debug/netcoreapp3.1/e-dispenser.runtimeconfig.json
+/Users/riyas/Projects/e-dispenser/e-dispenser/bin/Debug/netcoreapp3.1/e-dispenser.runtimeconfig.dev.json
+/Users/riyas/Projects/e-dispenser/e-dispenser/bin/Debug/netcoreapp3.1/e-dispenser.dll
+/Users/riyas/Projects/e-dispenser/e-dispenser/bin/Debug/netcoreapp3.1/e-dispenser.pdb
+/Users/riyas/Projects/e-dispenser/e-dispenser/obj/Debug/netcoreapp3.1/e-dispenser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/e-dispenser/e-dispenser/obj/Debug/netcoreapp3.1/e-dispenser.AssemblyInfoInputs.cache
+/Users/riyas/Projects/e-dispenser/e-dispenser/obj/Debug/netcoreapp3.1/e-dispenser.AssemblyInfo.cs
+/Users/riyas/Projects/e-dispenser/e-dispenser/obj/Debug/netcoreapp3.1/e-dispenser.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/e-dispenser/e-dispenser/obj/Debug/netcoreapp3.1/e-dispenser.dll
+/Users/riyas/Projects/e-dispenser/e-dispenser/obj/Debug/netcoreapp3.1/e-dispenser.pdb
+/Users/riyas/Projects/e-dispenser/e-dispenser/obj/Debug/netcoreapp3.1/e-dispenser.genruntimeconfig.cache
+/Users/riyas/Projects/e-dispenser/e-dispenser/obj/Debug/netcoreapp3.1/e-dispenser.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+/Users/riyas/Projects/Union/Union/bin/Debug/netcoreapp3.1/Union.deps.json
+/Users/riyas/Projects/Union/Union/bin/Debug/netcoreapp3.1/Union.runtimeconfig.json
+/Users/riyas/Projects/Union/Union/bin/Debug/netcoreapp3.1/Union.runtimeconfig.dev.json
+/Users/riyas/Projects/Union/Union/bin/Debug/netcoreapp3.1/Union.dll
+/Users/riyas/Projects/Union/Union/bin/Debug/netcoreapp3.1/Union.pdb
+/Users/riyas/Projects/Union/Union/obj/Debug/netcoreapp3.1/Union.csproj.AssemblyReference.cache
+/Users/riyas/Projects/Union/Union/obj/Debug/netcoreapp3.1/Union.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/Union/Union/obj/Debug/netcoreapp3.1/Union.AssemblyInfoInputs.cache
+/Users/riyas/Projects/Union/Union/obj/Debug/netcoreapp3.1/Union.AssemblyInfo.cs
+/Users/riyas/Projects/Union/Union/obj/Debug/netcoreapp3.1/Union.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/Union/Union/obj/Debug/netcoreapp3.1/Union.dll
+/Users/riyas/Projects/Union/Union/obj/Debug/netcoreapp3.1/Union.pdb
+/Users/riyas/Projects/Union/Union/obj/Debug/netcoreapp3.1/Union.genruntimeconfig.cache

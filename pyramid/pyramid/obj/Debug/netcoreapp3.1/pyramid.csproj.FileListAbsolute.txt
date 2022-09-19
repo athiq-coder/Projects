@@ -1,0 +1,13 @@
+/Users/riyas/Projects/pyramid/pyramid/bin/Debug/netcoreapp3.1/pyramid.deps.json
+/Users/riyas/Projects/pyramid/pyramid/bin/Debug/netcoreapp3.1/pyramid.runtimeconfig.json
+/Users/riyas/Projects/pyramid/pyramid/bin/Debug/netcoreapp3.1/pyramid.runtimeconfig.dev.json
+/Users/riyas/Projects/pyramid/pyramid/bin/Debug/netcoreapp3.1/pyramid.dll
+/Users/riyas/Projects/pyramid/pyramid/bin/Debug/netcoreapp3.1/pyramid.pdb
+/Users/riyas/Projects/pyramid/pyramid/obj/Debug/netcoreapp3.1/pyramid.csproj.AssemblyReference.cache
+/Users/riyas/Projects/pyramid/pyramid/obj/Debug/netcoreapp3.1/pyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riyas/Projects/pyramid/pyramid/obj/Debug/netcoreapp3.1/pyramid.AssemblyInfoInputs.cache
+/Users/riyas/Projects/pyramid/pyramid/obj/Debug/netcoreapp3.1/pyramid.AssemblyInfo.cs
+/Users/riyas/Projects/pyramid/pyramid/obj/Debug/netcoreapp3.1/pyramid.csproj.CoreCompileInputs.cache
+/Users/riyas/Projects/pyramid/pyramid/obj/Debug/netcoreapp3.1/pyramid.dll
+/Users/riyas/Projects/pyramid/pyramid/obj/Debug/netcoreapp3.1/pyramid.pdb
+/Users/riyas/Projects/pyramid/pyramid/obj/Debug/netcoreapp3.1/pyramid.genruntimeconfig.cache
